@@ -40,15 +40,20 @@
 
 •	Input & output devices are a computer mouse, keyboard, microphone, and a monitor.
 
-### Different type of Motherboar
+#### Different type of Motherboar
 •	Standard-ATX
+
 •	Micro-ATX
+
 •	Mini-ATX
+
 •	Nano-ATX
+
 •	Pico-ATX
 
 •	EPROM gives control to the BIOS
 
 What is a back-office?
+
 Are there more computer jobs that pay more?
 
